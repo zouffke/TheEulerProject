@@ -13,7 +13,10 @@ Project Euler (named after Leonhard Euler) is a website dedicated to a series of
 5. <a href="https://projecteuler.net/problem=5">Smallest Multiple</a>
 6. <a href="https://projecteuler.net/problem=6">Sum Square Difference</a>
 7. <a href="https://projecteuler.net/problem=7">1001st Prime</a>
-
-## Issues in Progress
 8. <a href="https://projecteuler.net/problem=8">Largest Product in a series</a>
 9. <a href="https://projecteuler.net/problem=9">Special Pythagorean Triplet</a>
+
+
+## Issues in Progress
+
+## Unsolved Issues

@@ -20,22 +20,17 @@ public class Main {
                 07198403850962455444362981230987879927244284909188
                 84580156166097919133875499200524063689912560717606
                 05886116467109405077541002256983155200055935729725
-                71636269561882670428252483600823257530420752963450""";
+                71636269561882670428252483600823257530420752963450""".replaceAll("\n", "");
 
-        int index = 0;
+        int adjacentDigits = 13;
         long max = 0;
-        long prod = 1;
 
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) != 10) {
-                if (index++ < 13) {
-                    prod *= Integer.parseInt(Character.toString(s.charAt(i)));
-                } else {
-                    index = 0;
-                    max = Math.max(max, prod);
-                    prod = 1;
-                }
+        for (int i = 0; i < s.length() - adjacentDigits; i++) {
+            long product = 1;
+            for (int j = 0; j < adjacentDigits; j++) {
+                product *= Character.getNumericValue(s.charAt(i + j));
             }
+            max = Math.max(max, product);
         }
         System.out.println(max);
     }
