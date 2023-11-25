@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/SmallestMultiple/SmallestMultiple.iml" filepath="$PROJECT_DIR$/SmallestMultiple/SmallestMultiple.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpecialPythagoreanTriplet/SpecialPythagoreanTriplet.iml" filepath="$PROJECT_DIR$/SpecialPythagoreanTriplet/SpecialPythagoreanTriplet.iml" />
       <module fileurl="file://$PROJECT_DIR$/SumSquareDifference/SumSquareDifference.iml" filepath="$PROJECT_DIR$/SumSquareDifference/SumSquareDifference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SummationofPrimes/SummationofPrimes.iml" filepath="$PROJECT_DIR$/SummationofPrimes/SummationofPrimes.iml" />
     </modules>
   </component>
 </project>
