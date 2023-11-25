@@ -17,8 +17,7 @@ Project Euler (named after Leonhard Euler) is a website dedicated to a series of
 9. <a href="https://projecteuler.net/problem=9">Special Pythagorean Triplet</a>
 10. <a href="https://projecteuler.net/problem=10">Summation of Primes</a>
 
-
-
 ## Issues in Progress
+11. <a href="https://projecteuler.net/problem=11">Largest Product in a Grid</a>
 
 ## Unsolved Issues
