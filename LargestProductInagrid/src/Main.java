@@ -42,22 +42,31 @@ public class Main {
         long max = 0;
         long prod = 1;
         long prodv = 1;
+        long prodd = 1;
+        long prodd2 = 1;
 
         for (int i = 0; i < grid.length; i++) {
-            for (int j = 0; j < grid.length; j++){
-                if (j < grid.length - 4){
-                    for (int k = 0; k < 4; k++){
+            for (int j = 0; j < grid.length; j++) {
+                if (j < grid.length - 3) {
+                    for (int k = 0; k < 4; k++) {
                         prod *= grid[i][k + j];
-                        prodv *= grid[k +j][i];
+                        prodv *= grid[k + j][i];
+                        if (i < grid.length - 3) {
+                            prodd *= grid[k + j][i + k];
+                            prodd2 *= grid[k + j][i + 3 - k];
+                        }
                     }
                     max = Math.max(prod, max);
                     max = Math.max(prodv, max);
+                    max = Math.max(prodd, max);
+                    max = Math.max(prodd2, max);
                     prod = 1;
                     prodv = 1;
+                    prodd = 1;
+                    prodd2 = 1;
                 }
             }
         }
-
         System.out.println(max);
     }
 }
