@@ -3,7 +3,7 @@
 
 Project Euler (named after Leonhard Euler) is a website dedicated to a series of computational problems intended to be solved with computer programs.
 
-<img src="https://projecteuler.net/profile/Zouffke.pn" alt="Image of Zouffke's user account">
+<img src="https://projecteuler.net/profile/Zouffke.png" alt="Image of Zouffke's user account">
 
 ## Solved issues
 1. <a href="https://projecteuler.net/problem=1">Multiples of 3 or 5 </a>
