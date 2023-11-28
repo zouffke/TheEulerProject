@@ -18,6 +18,8 @@ Project Euler (named after Leonhard Euler) is a website dedicated to a series of
 10. <a href="https://projecteuler.net/problem=10">Summation of Primes</a>
 11. <a href="https://projecteuler.net/problem=11">Largest Product in a Grid</a>
 12. <a href="https://projecteuler.net/problem=12">Highly Divisible Triangular Number</a>
+13. <a href="https://projecteuler.net/problem=13">Large Sum</a>
+
 
 ## Issues in Progress
 
