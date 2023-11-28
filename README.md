@@ -19,6 +19,7 @@ Project Euler (named after Leonhard Euler) is a website dedicated to a series of
 11. <a href="https://projecteuler.net/problem=11">Largest Product in a Grid</a>
 12. <a href="https://projecteuler.net/problem=12">Highly Divisible Triangular Number</a>
 13. <a href="https://projecteuler.net/problem=13">Large Sum</a>
+14. <a href="https://projecteuler.net/problem=14">Longest Collatz Sequence</a>
 
 
 ## Issues in Progress

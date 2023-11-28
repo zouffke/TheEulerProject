@@ -3,19 +3,20 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.MultiplesOf3Or5/1.MultiplesOf3Or5.iml" filepath="$PROJECT_DIR$/1.MultiplesOf3Or5/1.MultiplesOf3Or5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EvenFibonacciNumbers/EvenFibonacciNumbers.iml" filepath="$PROJECT_DIR$/EvenFibonacciNumbers/EvenFibonacciNumbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HighlyDivisibleTriangularNumber/HighlyDivisibleTriangularNumber.iml" filepath="$PROJECT_DIR$/HighlyDivisibleTriangularNumber/HighlyDivisibleTriangularNumber.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LargeSum/LargeSum.iml" filepath="$PROJECT_DIR$/LargeSum/LargeSum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LargestPalindromeProduct/LargestPalindromeProduct.iml" filepath="$PROJECT_DIR$/LargestPalindromeProduct/LargestPalindromeProduct.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LargestPrimeFactor/LargestPrimeFactor.iml" filepath="$PROJECT_DIR$/LargestPrimeFactor/LargestPrimeFactor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LargestProductInagrid/LargestProductInagrid.iml" filepath="$PROJECT_DIR$/LargestProductInagrid/LargestProductInagrid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LargestProductinASeries/LargestProductinASeries.iml" filepath="$PROJECT_DIR$/LargestProductinASeries/LargestProductinASeries.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Prime10001/Prime10001.iml" filepath="$PROJECT_DIR$/Prime10001/Prime10001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.SummationofPrimes/10.SummationofPrimes.iml" filepath="$PROJECT_DIR$/10.SummationofPrimes/10.SummationofPrimes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.LargestProductInagrid/11.LargestProductInagrid.iml" filepath="$PROJECT_DIR$/11.LargestProductInagrid/11.LargestProductInagrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.HighlyDivisibleTriangularNumber/12.HighlyDivisibleTriangularNumber.iml" filepath="$PROJECT_DIR$/12.HighlyDivisibleTriangularNumber/12.HighlyDivisibleTriangularNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.LargeSum/13.LargeSum.iml" filepath="$PROJECT_DIR$/13.LargeSum/13.LargeSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.LongestCollatzSequence/14.LongestCollatzSequence.iml" filepath="$PROJECT_DIR$/14.LongestCollatzSequence/14.LongestCollatzSequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.EvenFibonacciNumbers/2.EvenFibonacciNumbers.iml" filepath="$PROJECT_DIR$/2.EvenFibonacciNumbers/2.EvenFibonacciNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.LargestPrimeFactor/3.LargestPrimeFactor.iml" filepath="$PROJECT_DIR$/3.LargestPrimeFactor/3.LargestPrimeFactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.LargestPalindromeProduct/4.LargestPalindromeProduct.iml" filepath="$PROJECT_DIR$/4.LargestPalindromeProduct/4.LargestPalindromeProduct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.SmallestMultiple/5.SmallestMultiple.iml" filepath="$PROJECT_DIR$/5.SmallestMultiple/5.SmallestMultiple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.SumSquareDifference/6.SumSquareDifference.iml" filepath="$PROJECT_DIR$/6.SumSquareDifference/6.SumSquareDifference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.Prime10001/7.Prime10001.iml" filepath="$PROJECT_DIR$/7.Prime10001/7.Prime10001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.LargestProductinASeries/8.LargestProductinASeries.iml" filepath="$PROJECT_DIR$/8.LargestProductinASeries/8.LargestProductinASeries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.SpecialPythagoreanTriplet/9.SpecialPythagoreanTriplet.iml" filepath="$PROJECT_DIR$/9.SpecialPythagoreanTriplet/9.SpecialPythagoreanTriplet.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProjectEuler.iml" filepath="$PROJECT_DIR$/ProjectEuler.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SmallestMultiple/SmallestMultiple.iml" filepath="$PROJECT_DIR$/SmallestMultiple/SmallestMultiple.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpecialPythagoreanTriplet/SpecialPythagoreanTriplet.iml" filepath="$PROJECT_DIR$/SpecialPythagoreanTriplet/SpecialPythagoreanTriplet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SumSquareDifference/SumSquareDifference.iml" filepath="$PROJECT_DIR$/SumSquareDifference/SumSquareDifference.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SummationofPrimes/SummationofPrimes.iml" filepath="$PROJECT_DIR$/SummationofPrimes/SummationofPrimes.iml" />
     </modules>
   </component>
 </project>
