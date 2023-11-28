@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EvenFibonacciNumbers/EvenFibonacciNumbers.iml" filepath="$PROJECT_DIR$/EvenFibonacciNumbers/EvenFibonacciNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HighlyDivisibleTriangularNumber/HighlyDivisibleTriangularNumber.iml" filepath="$PROJECT_DIR$/HighlyDivisibleTriangularNumber/HighlyDivisibleTriangularNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/LargestPalindromeProduct/LargestPalindromeProduct.iml" filepath="$PROJECT_DIR$/LargestPalindromeProduct/LargestPalindromeProduct.iml" />
       <module fileurl="file://$PROJECT_DIR$/LargestPrimeFactor/LargestPrimeFactor.iml" filepath="$PROJECT_DIR$/LargestPrimeFactor/LargestPrimeFactor.iml" />
       <module fileurl="file://$PROJECT_DIR$/LargestProductInagrid/LargestProductInagrid.iml" filepath="$PROJECT_DIR$/LargestProductInagrid/LargestProductInagrid.iml" />
